@@ -13,7 +13,7 @@
 ### 🌐 Connect with me
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/saiteja00743" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bjyothiswaroop1" height="30" width="40" /></a>
+<a href="https://x.com/Saigajavelli007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bjyothiswaroop1" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/gajavelli-sai-teja-509266246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swaroopvitb" height="30" width="40" /></a>
 <a href="https://instagram.com/sai_teja_gajavelli_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swaroop_vitb" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@enemy_sai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="swaroop vitb" height="30" width="40" /></a>
