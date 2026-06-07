@@ -1,4 +1,4 @@
-#                        Hi 👋, I'm Gajavelli Sai Teja
+<h1 align="center">Hi 👋, I'm Gajavelli Sai Teja</h1>
 
 <h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Computer Science Student</h3>
 
@@ -17,34 +17,32 @@
 * 📚 Strong interest in DBMS, OOP, System Design & Software Engineering
 * 🚀 Building projects to become industry-ready
 * 🤝 Looking to collaborate on Full Stack & Open Source Projects
-* 🎯 Goal: Become a Skilled Software Engineer
+* ⚡ Goal: Crack top tech companies and become a skilled Software Engineer
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-
-<a href="https://x.com/Saigajavelli007">
+<a href="https://x.com/Saigajavelli007" target="_blank">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/gajavelli-sai-teja-509266246">
+<a href="https://www.linkedin.com/in/gajavelli-sai-teja-509266246" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/sai_teja_gajavelli_007">
+<a href="https://instagram.com/sai_teja_gajavelli_007" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://www.youtube.com/@enemy_sai">
+<a href="https://www.youtube.com/@enemy_sai" target="_blank">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 <a href="mailto:gajavellisaiteja123@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 </p>
 
 ---
@@ -84,6 +82,10 @@
 
 Multi-step AI Agent inspired by AutoGPT concepts.
 
+### 🎓 Student Management System
+
+Built using Java, DBMS concepts and modern web technologies.
+
 ### 🌐 Portfolio Website
 
 Personal portfolio showcasing projects, skills and achievements.
@@ -92,28 +94,36 @@ Personal portfolio showcasing projects, skills and achievements.
 
 Collection of coding problems and solutions.
 
-### 🎓 Student Management System
-
-Built using Java and Database concepts.
-
----
-
-## 🚀 Current Focus
-
-* 🌱 Learning Full Stack Development
-* 💻 Practicing DSA & Problem Solving
-* 🤖 Exploring AI & Automation
-* 📚 Improving Java, Python & JavaScript
-* 🎯 Preparing for Software Development Roles
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saiteja00743&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saiteja00743&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiteja00743&layout=compact&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saiteja00743&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiteja00743&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=saiteja00743&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saiteja00743&theme=tokyo-night"/>
 </p>
 
 ---
@@ -129,17 +139,12 @@ Built using Java and Database concepts.
 ## ✨ Fun Fact
 
 ```javascript
-const SaiTeja = {
-    code: ["Java", "Python", "JavaScript"],
-    learning: ["Full Stack", "AI", "DSA"],
-    goal: "Software Engineer",
-    challenge: "1% better every day"
-};
-
-while(true){
+while(alive){
     learn();
+    code();
     build();
     improve();
+    repeat();
 }
 ```
 
