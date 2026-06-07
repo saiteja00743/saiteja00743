@@ -1,4 +1,4 @@
-# Hi 👋, I'm Gajavelli Sai Teja
+#                        Hi 👋, I'm Gajavelli Sai Teja
 
 <h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Computer Science Student</h3>
 
