@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Computer Science Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Python+Full+Stack+Developer;AI+Learner;Python+Developer;Open+Source+Enthusiast;Future+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Python+Full+Stack+Developer;AI+Engineer;Python+Developer;Open+Source+Enthusiast;Future+Software+Engineer" alt="Typing SVG" />
 </p>
 
 ---
