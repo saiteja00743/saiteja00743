@@ -60,57 +60,81 @@
 
 ---
 
+
 # 🚀 Featured AI Projects
 
-## 🤖 AI Startup Validator (LangGraph)
+<table>
+<tr>
+<td width="50%">
 
-> Multi-Agent AI system that validates startup ideas using LLMs, market research, competitor analysis, risk assessment, and strategic recommendations.
+### 🤖 AI Startup Validator
 
-**Tech Stack**
+> Multi-Agent AI platform for startup validation using LLMs and LangGraph.
 
-Python • LangGraph • Groq • Tavily • Gradio • LLaMA
+**⚡ Tech**
+`Python` `LangGraph` `Groq` `LLaMA` `Tavily`
 
----
+🔗 **[Repository](https://github.com/saiteja00743/Kaggle-capstone-Project-Ai-Agnet-)**
 
-## 🚔 Crime Vision
+</td>
 
-> AI-powered Crime Analytics & Prediction Platform for intelligent crime forecasting, hotspot detection, and data-driven policing.
+<td width="50%">
 
-**Tech Stack**
+### 🚔 Crime Vision
 
-Python • FastAPI • React • Scikit-learn • XGBoost • PostgreSQL
+> AI-powered crime analytics, hotspot detection & prediction platform.
 
----
+**⚡ Tech**
+`Python` `FastAPI` `React` `Scikit-learn`
 
-## 🛰️ ISRO BAH 2026
+🔗 **[Repository](https://github.com/saiteja00743/Zoho-Datathon-2026-Crime-VIsion-Hackathon-)**
 
-> Deep Learning pipeline for Thermal Infrared Image Colorization & Enhancement using Landsat-9 satellite imagery.
+</td>
+</tr>
 
-**Tech Stack**
+<tr>
+<td>
 
-Python • PyTorch • GDAL • Rasterio • Computer Vision
+### 🛰️ ISRO BAH 2026
 
----
+> Deep Learning pipeline for Landsat-9 thermal image colorization.
 
-## 🎙️ AI Voice Clone
+**⚡ Tech**
+`PyTorch` `Computer Vision` `GDAL`
 
-> Offline multilingual AI voice cloning desktop application using XTTS-v2 with support for English, Telugu, and multiple languages.
+🔗 **[Repository](https://github.com/saiteja00743/IR-colorization-BAH2026)**
 
-**Tech Stack**
+</td>
 
-Python • PyTorch • XTTS-v2 • PySide6
+<td>
 
----
+### 🎙️ AI Voice Clone
 
-## ₿ BitSense AI
+> Offline multilingual voice cloning powered by XTTS-v2.
 
-> AI-powered Bitcoin Market Intelligence platform with real-time forecasting, market analytics, and conversational AI.
+**⚡ Tech**
+`Python` `PyTorch` `XTTS`
 
-**Tech Stack**
+🔗 **[Repository](https://github.com/saiteja00743/My-Voice-Agent-Local-)**
 
-React • FastAPI • IBM AutoAI • OpenAI • Python
+</td>
+</tr>
 
----
+<tr>
+<td colspan="2">
+
+### ₿ BitSense AI
+
+> AI-powered Bitcoin forecasting, market intelligence & conversational analytics.
+
+**⚡ Tech**
+`React` `FastAPI` `IBM AutoAI`
+
+🔗 **[Repository](https://github.com/saiteja00743/AI-Powered-Bitcoin-Price-Forecasting-Market-Intelligence)**
+
+</td>
+</tr>
+</table>
 
 # 💻 Tech Stack
 
