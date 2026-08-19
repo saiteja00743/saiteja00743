@@ -281,7 +281,7 @@ IBM Cloud • GitHub Actions
 <img src="https://komarev.com/ghpvc/?username=saiteja00743&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </p>
-
+<a href="https://gitroll.io/profile/uHeS9ezD7itPppf8Ew4MarGNNeMC2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uHeS9ezD7itPppf8Ew4MarGNNeMC2?theme=light" alt="GitRoll Profile Badge"/></a>
 ---
 
 # ✨ My Motto
@@ -306,4 +306,4 @@ while True:
 Artificial Intelligence • Machine Learning • Deep Learning • Computer Vision • AI Agents • Python
 
 </p>
-<a href="https://gitroll.io/profile/uHeS9ezD7itPppf8Ew4MarGNNeMC2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uHeS9ezD7itPppf8Ew4MarGNNeMC2?theme=light" alt="GitRoll Profile Badge"/></a>
+
