@@ -281,14 +281,8 @@ IBM Cloud • GitHub Actions
 <img src="https://komarev.com/ghpvc/?username=saiteja00743&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </p>
-<div align="center">
-  <a href="https://gitroll.io/profile/uHeS9ezD7itPppf8Ew4MarGNNeMC2" target="_blank">
-    <img src="https://gitroll.io/api/badges/profiles/v1/uHeS9ezD7itPppf8Ew4MarGNNeMC2?theme=light" alt="GitRoll Profile Badge"/>
-  </a>
-</div>
 
-
-<a href="https://gitroll.io/profile/u292KogMdJGe5JzG5CFldYOjm9Pu2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u292KogMdJGe5JzG5CFldYOjm9Pu2?theme=light" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/uHeS9ezD7itPppf8Ew4MarGNNeMC2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uHeS9ezD7itPppf8Ew4MarGNNeMC2?theme=light" alt="GitRoll Profile Badge"/></a>
 ---
 
 # ✨ My Motto
