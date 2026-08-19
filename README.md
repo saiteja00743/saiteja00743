@@ -297,9 +297,7 @@ while True:
 ```
 
 ---
-
-
-<div style="display: block; min-height: 200px;"><a href="https://gitroll.io" target="_blank"><img src="https://gitroll.io" height="200" alt="GitRoll Profile Badge"/></a></div>
+<a href="https://gitroll.io/profile/uHeS9ezD7itPppf8Ew4MarGNNeMC2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uHeS9ezD7itPppf8Ew4MarGNNeMC2?theme=light" alt="GitRoll Profile Badge"/></a>
 
 
 <h3 align="center">
