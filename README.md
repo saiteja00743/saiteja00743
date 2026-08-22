@@ -238,65 +238,9 @@ IBM Cloud • GitHub Actions
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=saiteja00743&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saiteja00743&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiteja00743&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=saiteja00743&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=saiteja00743&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
 
 
----
 
-# ✨ My Motto
-
-```python
-while True:
-    learn()
-    build()
-    experiment()
-    innovate()
-    share()
-```
-
----
 
 <a href="https://gitroll.io/profile/uHeS9ezD7itPppf8Ew4MarGNNeMC2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uHeS9ezD7itPppf8Ew4MarGNNeMC2?theme=light" alt="GitRoll Profile Badge"/></a>
 
